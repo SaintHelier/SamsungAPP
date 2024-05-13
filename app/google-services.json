@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676436879012",
+    "project_id": "pipidastr-3ce8c",
+    "storage_bucket": "pipidastr-3ce8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676436879012:android:caee37ad54843f48d6e831",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwU3nO1sJUvUnYko4XsyNwzBCMQtThwqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
